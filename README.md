@@ -1,6 +1,24 @@
 # Portfolio
 My GitHub Portfolio.
 
+## COVID-19 Blockchain Federated Learning
+
+Full title: **COVID-19 treatment using Federated Learning protocol with blockchain based rewards**
+
+A collaborative project submitted as an entry for the [Stop COVID-19 Hackathon](https://gitcoin.co/issue/ConsensysHealth/hackathons/1/4207) hosted by Consensys Health.
+
+[GitHub Repo](https://github.com/cai-harry/StopCovidHackathon)
+
+[Write-up](https://github.com/cai-harry/StopCovidHackathon/blob/master/write-up.pdf)
+
+## Cryptomon
+
+An Ethereum Dapp. This was the coursework assignment for a module on Decentralised Ledgers.
+
+![Cryptomon](https://github.com/cai-harry/Cryptomon/raw/master/readme_images/initial.png?raw=true)
+
+[GitHub Repo](https://github.com/cai-harry/Cryptomon)
+
 ## Arkanoid Orb 2
 
 A game I made while learning to use [Unity](https://unity.com/), the 3D game engine.
